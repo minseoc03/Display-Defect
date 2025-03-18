@@ -1,4 +1,4 @@
-# 📊 LG Aimers - Display Defect Prediction  
+# 📊 LG Aimers 5 - Display Defect Prediction  
 
 This repository contains the code and related materials from the **LG Aimers** competition, where the goal was to develop a machine learning model to predict **defective displays** in the manufacturing process. The competition focused on improving quality control by detecting potential defects early.  
 
